@@ -4,3 +4,4 @@
 *.js filter=lfs diff=lfs merge=lfs -text
 *.mem filter=lfs diff=lfs merge=lfs -text
 *.symbol filter=lfs diff=lfs merge=lfs -text
+*.symbols filter=lfs diff=lfs merge=lfs -text
